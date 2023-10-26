@@ -1,4 +1,4 @@
-package Test123;
+package Tests_from_class;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
